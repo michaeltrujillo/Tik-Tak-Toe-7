@@ -1,0 +1,13 @@
+.tile{
+    height: 100px;
+    width: 100px;
+    margin: 4px;
+}
+
+/* numRow
+
+letterCol */
+
+.turn{
+    text-align: center;
+}
