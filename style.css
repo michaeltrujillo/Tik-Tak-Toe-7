@@ -4,10 +4,49 @@
     margin: 4px;
 }
 
-/* numRow
+.numRow{
+    font-size: 40px;
+    text-align: center;
+}
 
-letterCol */
+.letterCol{
+    font-size: 40px;
+}
+
 
 .turn{
     text-align: center;
+}
+
+#turn1{
+    font-size: 35px;
+}
+
+#turn2{
+    font-size: 35px;
+}
+
+#landingZone{
+    font-size: 50px;
+}
+
+#coinResult{
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffaa00;
+}
+
+.key{
+    font-size: 35px;
+    font-style: italic;
+}
+
+body{
+    background-color:  #ffe6ff;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: white;
 }
